@@ -2,6 +2,7 @@
 <title>Kevin Williams's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Author (Level 1)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Apprentice Cathedral Worker (Level 2)</title><description>Cloned submodule repository and checked out commits specified by superproject.</description></item>
 <item><title>Apprentice Cathedral Worker (Level 1)</title><description>Cloned submodule repository and checked out commits specified by superproject.</description></item>
 <item><title>Baptised</title><description>Set global user name using git config.</description></item>
